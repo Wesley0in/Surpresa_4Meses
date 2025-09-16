@@ -63,7 +63,7 @@ const Index = () => {
     {
       day: "7",
       date: "Quarta-feira - Amanhã",
-      title: "O Reencontro",
+      title: "O Reencontro!",
       content: "A mensagem de quarta feira vou ler amanhã para você. Mas queria que soubesse que cada palavra aqui foi escrita com muito amor e saudade. Mal posso esperar pra te ver, te abraçar, te beijar e te encher de carinho. Você é a melhor coisa que já me aconteceu, e esses dias sem você só reforçaram o quanto eu te amo. Que essa surpresa seja apenas o começo de muitas outras que ainda vamos viver juntos. Te amo mais do que palavras podem expressar, e estou contando os minutos pra te ter de volta em meus braços. Até amanhã, meu amor.",
       image: quarta_img
     }
